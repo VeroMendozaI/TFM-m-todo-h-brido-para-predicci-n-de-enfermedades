@@ -74,9 +74,9 @@ capacidad predictiva en ausencia de fuga de información.
 
 
 ## Autor
-Verónica Mendoza Iguarán
-Máster Universitario en Inteligencia Artificial
-Universidad Internacional de La Rioja - UNIR
-Escuela Superior de Ingeniería y Tecnología
-Director: Ignacio Ramos Garcia
-Año: 2026
+Verónica Mendoza Iguarán  
+Máster Universitario en Inteligencia Artificial  
+Universidad Internacional de La Rioja - UNIR  
+Escuela Superior de Ingeniería y Tecnología  
+Director: Ignacio Ramos Garcia  
+Año: 2026  
